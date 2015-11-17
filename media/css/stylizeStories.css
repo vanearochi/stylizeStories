@@ -1,0 +1,57 @@
+
+.container{
+	width: 80%;
+	margin:0 auto;
+	border-style: solid;
+	border-color: red;
+}
+
+.box1{
+	border-style: solid;
+	border-color: yellow;
+	height: auto;
+	
+}
+
+
+.box{
+	border-style: solid;
+	border-color: blue;
+	height: auto;
+	
+}
+
+.image{
+	
+	border-style: solid;
+	width:250px;
+	 height:120px;
+    background-color:rgb(48, 121, 171);
+	
+
+
+	
+}
+.headLine{
+	height: 70px;
+	font-style: bolder;
+
+}
+
+.userInfo{
+	border-style: solid;
+
+	
+	
+}
+
+.userPic{
+	border-radius: 100%;
+	border-style: solid;
+
+}
+
+.other{
+	border-style: solid;
+	
+}
